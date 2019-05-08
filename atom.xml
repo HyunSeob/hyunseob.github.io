@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hyunseob.github.io/"/>
-  <updated>2018-12-31T12:01:33.637Z</updated>
+  <updated>2019-05-08T20:36:35.365Z</updated>
   <id>https://hyunseob.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Google I/O 2019: Day 1 후기</title>
+    <link href="https://hyunseob.github.io/2019/05/09/google-io-2019-day-1/"/>
+    <id>https://hyunseob.github.io/2019/05/09/google-io-2019-day-1/</id>
+    <published>2019-05-09T04:30:30.000Z</published>
+    <updated>2019-05-08T20:36:35.365Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/google-io/badge.jpg"/><p>GDG Korea WebTech Organizer로서 Google Korea로부터 숙소 비용 및 티켓 비용을 전액 지원받아 Google I/O 2019에 참가하게 되었다. 사실 Google I/O에는 이번에 처음으로 참가하는 것이다. Google I/O 행사 뿐만 아니라 이런 글로벌 규모의 컨퍼런스에 참가하는 것 자체가 처음이다. 후기에서는 이번에 공개된 모든 기술에 대해 내 해석을 남기는 것보다는 (사실 이건 다른 미디어에서 잘 하고 있기 때문에) 전반적인 행사의 느낌을 공유하는데 초점을 맞추려고 한다.</p><h2 id="입장-amp-Keynote-Pre-show"><a href="#입장-amp-Keynote-Pre-show" class="headerlink" title="입장 &amp; Keynote Pre-show"></a>입장 &amp; Keynote Pre-show</h2><p>아침 일찍 우버를 타고 Google I/O 행사장에 도착했다. 여덟 시쯤 도착한 것 같은데 입장 줄이 길어서 입장하는데 30분 정도 걸린 것 같다.</p><p>도착해보니 행사장은 약간 놀이공원 같았다. 실제로 전체 행사장 크기도 작은 놀이공원 사이즈는 되고, 뭔가 사람들이 약간 텐션 오른 것도 놀이공원과 비슷했다. 행사장에서는 아침으로 베이글과 커피 등을 제공하고 있었는데, 간단하게 아침식사를 해결하고 키노트를 듣기 위해서 키노트 장소로 이동했다.</p><p>이번 Google I/O에는 약 5000명의 사람이 참여했다고 들었는데, 과연 키노트 장소에도 사람은 많았다. 키노트 장소에는 크게 맨 앞 쪽 스테이지와 가장 가까운 좌석들(콘서트 같은 걸로 비유하면 R석)이 가장 중심이었고 바로 그 뒤 프레스 좌석, 일반좌석, 잔디좌석이 있었다. 나는 GDG 커뮤니티 오거나이저로서 참석하는 것이어서 감사하게도 앞쪽 좌석에 갈 수 있었다.</p><p>보통 개발자 행사라고 하면 약간 정적이고 조용한 사람들이 가득한 공간에서 키보드만 두드리는 이미지를 상상하게 되는데 Google I/O는 입장할 때부터 분위기가 개발자 행사라기보다는 뭐랄까, 콘서트나 스포츠 경기장에 가까운 분위기였다. 스테이지에서는 무려 “AI” DJ가 믹싱하는 음악이 나오고 있고 행사장에는 환호소리가 끊임없이 들렸다. 이렇게 큰 행사에 참여하는 것은 처음이라서 이것이 일반적인 건지 특이한 케이스인건지는 모르겠지만 이런 축제 분위기는 좋았다. 진정한 개발자 축제가 이런 것이 아닐까 하는 생각이 들었다.</p><h2 id="Building-more-helpful-Google-for-everyone"><a href="#Building-more-helpful-Google-for-everyone" class="headerlink" title="Building more helpful Google for everyone"></a>Building more helpful Google for everyone</h2><p><img src="/images/google-io/keynote.jpg" alt="키노트 스테이지"></p><p>키노트의 MC는 Google의 CEO인 순다 피차이였다. 이번 키노트를 관통하는 키워드는 “Helpful”이다. 기술들을 사용자에게 진짜 도움이 되는 방법으로 쓰는 것이라고 이해하면 되려나? 이런 주제와 함께 여러가지 구글의 새로운 기술과 컴퓨터 과학적 성취들이 공개되었다.</p><p>키노트에서 공개된 새로운 기술 중에서 Google Assistant의 성능 향상, AR 관련 구글 렌즈의 새로운 기능이나 안드로이드 Q에 새로 들어갈 기능들에게도 관심이 갔지만, 내게 가장 흥미로웠던 것은 Duplex on the Web 이었다. Duplex는 작년 Google I/O에서 가장 화제가 되었던 AI가 미용실에 전화를 걸어 예약하는 바로 그 기능이다. Duplex on the Web은 이미 서비스를 운영하고 있는 웹페이지(예를 들어 항공권 결제 웹페이지)에 들어가서 이미 여러가지 앱에 들어있는 정보들을 이용해서 복잡한 회원가입과 구매절차를 자동으로 진행하는 기능이다. 더욱 놀라웠던 건 각 웹페이지들을 수동으로 Duplex에 통합하는 것이 아니라 ML을 적용해서 자동으로 통합할 수 있다는 부분이었다. 실제 사용이 가능할 때 어느정도 수준으로 통합될 지, 정말 대부분의 웹사이트에 자동으로 통합될 것인지, 사실 웹 개발자로서 약간은 회의적인 입장이라 궁금하다. 토스도 미친 유저 경험을 추구하기 위해 비슷한 기능이 들어가 있는데 공개된 시점에 참고할 부분이 많을 거라고 예상하고 있다.</p><p>요즘 소프트웨어 기술 업계에 관심이 많은 사람이라면 공감할 수 있겠지만, 많은 오프라인 비즈니스가 온라인으로 옮겨가면서, 한 사용자가 다양한 소프트웨어를 사용해야 하기 때문에 이런 상황에 대해서 피로감을 느끼는 사람이 적지 않을 거라고 생각한다. 이번에 공개된 Google의 기술들은 이런 피로감을 해소하는데 초점을 맞추고 있다는 생각이 들었다. 더불어, 이런 소프트웨어에 접근 자체가 어려웠던 사용자, 가령 문맹이라던지, 장애를 가지고 있는 사람들에게 도움이 되기 위해 노력하고 있다는 생각도 들었다. 이번에 공개된 기술 중 Google Assistant 관련 내용이 특히 많다고 느껴진 것도 같은 맥락에서 해석이 가능할 것 같다.</p><p>전반적인 느낌에 대해 표현하자면, 키노트를 듣는 내내 흥분을 감추기 어려웠다. 물론 Google이 이번에 공개한 기술 자체도 놀라운 부분이 적지 않았다. 하지만, 내가 솔직히 이걸 그냥 페이스북에서 기사로 봤을 때를 상상해 보면, “오 역시 구글”하고 짧게 한 마디하고 끝났을 것을, 그 현장의 열광적인 분위기를 온전히 느낄 수 있었기 때문에 “내가 역사의 한 순간에 서있다”라는 생각을 벅차오르는 감정과 함께 느낄 수 있었다. 동시에 Google I/O에 참가할 수 있어서 다행이라는 생각이 들었다.</p><p>여기에 소개하지 않은 기술들이나 새로 공개된 기기에 대해서는 <a href="https://www.theverge.com/2019/시/7/18531198/google-io-summary-keynote-news-highlights-recap-2019" target="_blank" rel="noopener">The Verge의 기사</a>를 참고하면 좋을 것 같다.</p><h2 id="Developer-Keynote"><a href="#Developer-Keynote" class="headerlink" title="Developer Keynote"></a>Developer Keynote</h2><p><img src="/images/google-io/v8-performance.jpg" alt="V8 성능 개선 슬라이드"></p><p>점심으로 제공되는 샌드위치를 가볍게 먹고나니 개발자 키노트가 시작됐다. 개발자 키노트에서는 개발자에게 중요할 만한 내용을 압축해서 전달했다.Android Studio를 포함해 Android Q의 새로운 API와 Chrome에서 제공하는 (물론 웹 표준인) 새로운 API, V8 엔진의 성능개선, Tensorflow 등 Google의 대표적인 기술들의 업데이트들을 소개하는 자리였다. 사진은 열심히 찍었는데 사실 이 키노트에서는 요약된 자료만 보여줬고, 자세한 내용들은 별도로 마련된 세션에서 소개되었기 때문에 이 부분에서 다루지 않겠다.</p><h2 id="What’s-new-with-Chrome-and-the-Web"><a href="#What’s-new-with-Chrome-and-the-Web" class="headerlink" title="What’s new with Chrome and the Web"></a>What’s new with Chrome and the Web</h2><p>이 세션에서는 새로운 Chrome의 API들이 자세하게 소개되었다. 크게 세 가지 분류로 소개되었다.</p><ul><li>Instant (성능적인 개선)</li><li>Powerful (영역의 확장)</li><li>Safe (프라이버시, 보안)</li></ul><h3 id="Instant"><a href="#Instant" class="headerlink" title="Instant"></a>Instant</h3><p>“Instant” 분류에서는 늘 그렇듯이 Chrome이 사용하는 V8 엔진의 성능적인 개선이 먼저 소개되었고 다음으로 웹 개발자가 웹 사이트의 성능을 최적화하기 위한 다양한 도구들이 소개되었다. 다행히도 꽤 많은 부분이 바로 적용 가능해보였다. 가령 Image lazy load를 Chrome에서 지원하기 시작했는데, 단순히 <code>&lt;img loading=&quot;lazy&quot; /&gt;</code> 라고만 써도 적용되고, 지원하지 않는 브라우저에서는 무시될 것이기 때문에 바로 적용가능할 것으로 보인다.</p><h3 id="Powerful"><a href="#Powerful" class="headerlink" title="Powerful"></a>Powerful</h3><p><img src="/images/google-io/new-apis-on-chrome.jpg" alt="네이티브 접근 API들"></p><p>“Powerful”에서는 웹 영역의 확장, 기존에서는 Native만 접근 가능했던 곳에 Web이 접근할 수 있도록 새로운 API들이 소개되었다. 예를 들어, 안드로이드 디바이스의 Native 공유 API가 웹에서 접근가능하게 되었다. 물론 이런 종류의 변화가 늘 그렇듯이 해당 기능은 Chrome에만 구현되어 있으므로 프로덕션에 바로 실제로 적용하기는 많이 어려울 것이다. 하지만 PWA와 결합한다면 상당부분 네이티브 앱의 역할을 가져올 수 있고, 이런 개선이 계속된다면 결국에는 웹(+ PWA)이 네이티브 앱들을 대체하는 수단으로 활용될 수도 있겠다는 생각이 든다. 이미 데스크탑 앱은 상당 부분 대체되기도 했고.</p><h3 id="Safe"><a href="#Safe" class="headerlink" title="Safe"></a>Safe</h3><p>“Safe”에서는 Chrome의 보안 정책의 변화를 소개했다. 가장 흥미로웠던 부분은 <a href="https://webauthn.guide/" target="_blank" rel="noopener">Webauthn</a>이었다. Webauthn은 웹에서 일반적으로 사용되는 인증방식인 ID/비밀번호 방식을 제거하기 위해, 모바일에서 주로 사용되는 인증방식인 생체인식등을 웹에서도 사용할 수 있게 만들어주는 API다. 이번에 처음 알게된 개념인데 알고보니 Safari를 제외하고 대부분의 모던 브라우저에서는 지원이 이미 되고있었던 API였다. 아직은 당장 사용이 어려워보이긴 했지만, iOS, Safari 등에서 구현된다면 도전적인 서비스에서는 사용할만 하겠다는 생각이 들었다.</p><h2 id="Building-Successful-Websites-Case-Studies-for-Mature-and-Emerging-Markets"><a href="#Building-Successful-Websites-Case-Studies-for-Mature-and-Emerging-Markets" class="headerlink" title="Building Successful Websites: Case Studies for Mature and Emerging Markets"></a>Building Successful Websites: Case Studies for Mature and Emerging Markets</h2><p><img src="/images/google-io/twitter-times-hulu.jpg" alt="트위터, 타임즈 인터넷, 훌루 로고ㄴ"></p><p>사실 큰 기대를 하고 들어간 세션은 아니었는데 의외로 꿀잼이었던 세션이다. 이 세션에서는 세 가지 실제 사례를 들어 각각 겪고있던 문제를 소개하고, 해당 문제를 해결하는데 어떻게 했는지, 그리고 그걸로 얼마나 비즈니스적 성과를 나타냈는지 소개했다.</p><p>발표에 연사자로 트위터와 Hulu에서 Product Manager 롤을 가지고 있는 분이 나왔는데, 엔지니어가 아닌 매니저가런 기술을 잘 알고 또 관심을 가지고 있다는 사실이 개인적으로 놀라웠다.</p><h3 id="Twitter"><a href="#Twitter" class="headerlink" title="Twitter"></a>Twitter</h3><p>가장 첫 번째 사례는 트위터였다. 트위터 유저라면 최근에 데스크톱 웹 디자인이 깔끔하게, 그리고 모바일과 유사하게 상당히 바뀌었다는 걸 알고 있을 것이다. 사실 트위터는 원래 “Twitter Lite”라는 가벼운 앱을 만들기 위해 2017년에 이미 웹 기술과 PWA를 이용해 모바일 앱을 만든 사례가 있었고 이것은 트위터의 모바일 웹으로도 사용되고 있었다. 하지만 데스크톱 UI는 모바일과 꽤 다른, 유저인 내가 봤을 때도 상당히 이질적인 느낌이었는데, 실제로도 다른 코드 베이스 위에서 운영되고 있었다. 결국 트위터는 새로운 기능을 추가하기 위해서는 데스크톱용 웹과 모바일 웹 두 가지의 코드 베이스에 모두 기능을 추가해야 했던 것이다.</p><p>그래서 트위터는 기존에 운영되던 모바일 웹 기반으로 반응형 웹 디자인을 적용해 새롭게 데스크톱 UI를 만들게 되었다. 다양한 환경을 대응하기 위해서 리액트를 사용해 Component Based Design을 적용했다. 간단하게 설명하면 하나의 컴포넌트가 다양한 플랫폼에 대응되게끔 설계하는 것이다. 이를 통해 트위터는 데스크톱 부터 피처폰까지 넓은 범위를 소화할 수 있었다.</p><h3 id="Times-Internet"><a href="#Times-Internet" class="headerlink" title="Times Internet"></a>Times Internet</h3><p>타임즈 인터넷은 인도의 테크 기업이다. 인도는 인터넷 속도도 느리고, 대부분의 디바이스 사양이 좋지 않기 때문에 이 세션에서는 그런 환경적 한계를 어떻게 소프트웨어로 극복할 수 있었는지에 대해서 다뤘다. 타임즈 인터넷은 웹을 통해 뉴스를 서비스하고 있는데, 인터넷 속도가 느렸기 때문에 PWA가 중요하게 작용했다.</p><p>먼저 느린 인터넷 속도를 극복하기 위해 PWA의 오프라인 캐싱, Lighthouse의 <a href="https://web.dev/performance-budgets-101" target="_blank" rel="noopener">Performance Budgets</a>을 사용했다. Lighthouse의 Performance Budgets은 개발자 키노트에서도 소개되었는데, JavaScript, CSS 혹은 이미지 리소스등의 애셋 크기를 제한하는 도구다.</p><p>이런 도구를 통해 오프라인 혹은 인터넷 속도가 낮은 상황에서도 유저 경험을 크게 해치지 않을 수 있었고 그로 인해 가장 중요한 광고 매출을 59% 증대시켰다고 한다.</p><h3 id="Hulu-Desktop"><a href="#Hulu-Desktop" class="headerlink" title="Hulu Desktop"></a>Hulu Desktop</h3><p>Hulu는 Netflix와 비슷한 OTT 서비스다. Hulu는 원래 유저들에게 데스크톱 앱을 제공했는데 이 데스크톱 앱을 PWA를 이용한 웹앱으로 전환한 사례를 발표했다. Hulu는 가지고 있던 “레거시” 데스크톱 앱을 Fade out 시키고 유저들을 웹으로 전환시키려고 했지만 유저들의 피드백이 좋지 않았다. 가장 큰 이유는 “설치가능성”. 그러니까, 웹에서 제공하는 서비스였기 때문에 설치할 수 없다는 점이 좋지 않은 피드백을 받았다고 한다. 이를 해결하기 위해 Hulu는 데스크톱 PWA를 적용했다. 이를 적용하는데 개발자 1명이 2주밖에 들이지 않았다는 PWA 칭찬인지 엔지니어 자랑인지 알 수 없는 말을 했다.</p><p>Hulu의 사례는 사실 PWA 데스크톱을 적용하기 이상적인 케이스라는 생각이 들었다. 사실 PWA가 아닌 Electron을 사용하는 케이스는 대부분 Native 자원에 접근하기 위해서인데 Hulu의 경우 단순한 동영상 OTT 서비스이므로 Native 자원에 접근해야할 니즈가 거의 없기 때문이고 기존에도 웹 서비스를 잘 제공했고, 단순히 Install 가능성만 추가로 충족시키면 되었기 때문이다.</p><hr><p>첫 날 들은 세션은 이 정도다. 현재 2일차 Google I/O가 진행중인데 여기에 대한 후기는 Day 2 후기에 이어서 남길 예정이다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/google-io/badge.jpg&quot;/&gt;&lt;p&gt;GDG Korea WebTech Organizer로서 Google Korea로부터 숙소 비용 및 티켓 비용을 전액 지원받아 Google I/O 2019에 참가하게 되었다. 사
+      
+    
+    </summary>
+    
+      <category term="Log" scheme="https://hyunseob.github.io/categories/Log/"/>
+    
+    
+      <category term="Log" scheme="https://hyunseob.github.io/tags/Log/"/>
+    
+      <category term="Google I/O" scheme="https://hyunseob.github.io/tags/Google-I-O/"/>
+    
+      <category term="GDG" scheme="https://hyunseob.github.io/tags/GDG/"/>
+    
+  </entry>
   
   <entry>
     <title>2018년 돌아보기</title>
@@ -65,9 +94,9 @@
     
       <category term="Opinion" scheme="https://hyunseob.github.io/tags/Opinion/"/>
     
-      <category term="TypeScript" scheme="https://hyunseob.github.io/tags/TypeScript/"/>
-    
       <category term="Translate" scheme="https://hyunseob.github.io/tags/Translate/"/>
+    
+      <category term="TypeScript" scheme="https://hyunseob.github.io/tags/TypeScript/"/>
     
   </entry>
   
@@ -122,9 +151,9 @@
       <category term="React" scheme="https://hyunseob.github.io/categories/JavaScript/React/"/>
     
     
-      <category term="TypeScript" scheme="https://hyunseob.github.io/tags/TypeScript/"/>
-    
       <category term="React" scheme="https://hyunseob.github.io/tags/React/"/>
+    
+      <category term="TypeScript" scheme="https://hyunseob.github.io/tags/TypeScript/"/>
     
   </entry>
   
@@ -548,31 +577,6 @@
       <category term="CSS" scheme="https://hyunseob.github.io/tags/CSS/"/>
     
       <category term="Translate" scheme="https://hyunseob.github.io/tags/Translate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2016년 블로그 운영 회고</title>
-    <link href="https://hyunseob.github.io/2016/12/10/a-look-back-on-blog-in-2016/"/>
-    <id>https://hyunseob.github.io/2016/12/10/a-look-back-on-blog-in-2016/</id>
-    <published>2016-12-10T07:12:00.000Z</published>
-    <updated>2018-12-31T10:15:02.250Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/images/a-look-back-on-blog-in-2016.jpg"/><p>올 한 해 스스로 잘했다고 생각하는 것 중에 하나는 바로 블로그 운영이다. 사실 블로그는 작년에 시작했다. 작년 8월 쯤, 그러니까 첫 커리어의 시작 즈음에, 스스로의 실력에 대한 회의감, 위기감 이런 것들이 촉매가 되어 시작하게 된 것 같다.</p><p>포스트 고작 3개. 그리고 나서 테마가 좀 맘에 안 들어서 “그래, 역시 웹 개발자라면 블로그 테마 정도는 스스로 만드는 거지!” 하면서 나름대로 테마를 만들어보려고 꼼지락거렸던 것 같다. 당시에는 블로그 구성이 지금과는 조금 달랐다. 정적 사이트 제너레이터로 만든 블로그라는 점은 같았지만, Ruby 기반의 Jekyll을 사용해서 구성했었고 웹 개발자로서도 많이 부족했기 때문에 금방 포기했었다.</p><p>그리고 2016년이 찾아왔다. 여러가지 글이 나에게 블로그를 하라고 가리키는 듯 했다. 연초에 강미경님이 쓰신 <a href="https://minieetea.com/2016/01/archives/4332" target="_blank" rel="noopener">이 글</a>에서도 영향을 받았고, 당시 내가 번역하려다 미루어 두었던(지금은 이미 번역된) <a href="https://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/" target="_blank" rel="noopener">How to become a great frontend engineer</a>라는 글에서도 마지막에 글을 쓰라는 내용으로 맺는다.</p><p>다들 하는 것처럼 나도 연초에 목표를 세우곤 하는데, 결국 나는 그 목표 중 하나로 1주 1포스팅을 끼워넣게 되었다. 물론, 현실성 없는 설정으로 인해 이 목표는 불과 한 달도 안되어 깨졌다. 그래도 이 목표가 나에게 글을 쓰게 된 계기를 만들어 준 것은 사실이다. 더불어 올해 2월에 이상한모임에 필진으로 등록되면서 동기부여가 더욱 강해졌다.</p><h2 id="블로그를-다시-시작하면서-기대한-것"><a href="#블로그를-다시-시작하면서-기대한-것" class="headerlink" title="블로그를 다시 시작하면서 기대한 것"></a>블로그를 다시 시작하면서 기대한 것</h2><p>시작할 당시에는, 블로그로 인해 내가 아는 것의 스펙트럼이 넓어질 거라고 생각했다. 나는 기억력이 안 좋은 편인데, 일단 글로 기록을 했으니 당연히 기억도 더 오래 남을 것이라고 기대했다. 그리고 결국은 블로그가 나중에 개발자로서의 자산, 그러니까 포트폴리오로 남을 것이라는 기대를 했다.</p><h2 id="실제로는-어땠는가"><a href="#실제로는-어땠는가" class="headerlink" title="실제로는 어땠는가"></a>실제로는 어땠는가</h2><p>1년 동안 글을 써보니 블로그를 통해서 새롭게 알게 되는 것이 생기는 경우는 많이 없었던 것 같다. 오히려 내가 평범하게 일을 하거나 모임에 나가서 알게 되는 것들을 블로그에 적게 되는 경우가 훨씬 많은 것 같다. 블로그에 글을 쓰기 위해서 특정 기술에 대해서 공부를 한 적도 있긴하지만, 이 때는 내가 알고 있는 걸 표현할 때보다 동기부여도 약해졌고, 글을 쓰는데에도 더 오래 걸렸다.</p><p>글로 썼다고 기억이 더 잘 나는 것도, 적어도 나에게는 아닌 것 같다. “내가 대충 그런 주제의 글을 썼다”라는 것은 기억이 나는데, 내용은 자세히 기억에 남지 않았다. 대신에 내가 쓴 글은, 기억이 나지 않아도 내가 가장 빠르게 참고할 수 있는 자료가 되어서 삽질을 조금 줄일 수 있게 되었다.</p><p>그리고 쓰는 주제에 대해서 더 확실히 알게 된다. 엄청 많은 사람이 내 글을 읽는 건 아니지만, 이상한모임에도 퍼블리싱 되는 글이고, 구독자 수도 나름(…)대로 꽤 있어서 글 내용에 혹시라도 오류가 있지는 않을 지 꼼꼼하게 확인하게 된다. 그 과정에서 내가 애매하게만 알고 있었던 내용을 명확하게 알게 되는 경우가 많았다. 그럼에도 불구하고 글 내용에 종종 오류가 있었다. 잘못된 정보를 전달받은 분들께 죄송하다는 말씀을 전하고 싶다.</p><p>더불어 블로그를 운영하면서 “내 글이 읽힌다” 라는 게 이렇게 기분 좋은 일인지 처음 알게 되었다. 다른 분들이 보고 댓글을 남기시거나 좋아요를 눌러 주시는 일련의 반응들이, 나에게는 글을 쓰게 되는 또 하나의 동기가 되었다. 습관적으로 GA에 들어가서 내 글이 어디에 링크가 되어있는 지 찾아보는 게 취미가 되었다.</p><p>포트폴리오는 되는 게 맞는 것 같다. 최소한 취업 혹은 이직에 도움이 되는 것은 맞다. 얼마 전 <a href="/2016/10/15/my-first-changing-company/">이직</a>하면서 이력서 내용에 블로그 링크를 추가해뒀는데, 면접을 가게 되면 감사하게도 대부분 블로그를 좋은 방향으로 언급해주셨다.</p><p>마지막으로 나의 과거를 돌아볼 수 있게 된다는 점이 있다. 나는 연말이 되면 항상 1년 회고를 해보는데, 사실 1년 전 자신이 어떤 수준인지 명확하게 떠올리기 어려웠다. 글로서 기록을 블로그에 남겨두니 1년 전에 내가 어떤 수준이었는지 파악하기 쉬워졌다. 덕분에 내가 얼마나 발전했는지도 알기가 쉽다. 이건 다시 앞으로의 1년을 달릴 수 있게 만드는 에너지가 된다.</p><h2 id="마치며"><a href="#마치며" class="headerlink" title="마치며"></a>마치며</h2><p>이 글을 쓰는 시점에서 세어보니, 올 해 나는 27개의 포스트를 작성했다. 그러니까 약 2주에 1개의 포스트를 작성한 것이다. 목표는 달성하지 못했지만, 이 정도면 꽤 괜찮지 않았나, 하고 스스로 칭찬해본다.</p><p>2016년 한 해 동안 블로그에 방문해주신 모든 분께 감사드린다.</p><h2 id="2016년-통계"><a href="#2016년-통계" class="headerlink" title="2016년 통계"></a>2016년 통계</h2><p>의미 없는 통계치지만 통계를 내는 걸 좋아해서 기록해본다. Google Analytics의 통계이므로 정확하지 않다. 광고 차단 플러그인 등을 사용했다면 잡히지 않을 수도 있다.</p><ul><li>방문자 수: 43,246명<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></li><li>Feedly 구독자 수: 62명</li><li>가장 많이 읽힌 글: <a href="/2016/02/21/how-to-become-a-great-frontend-engineer/">탁월한 프론트엔드 엔지니어가 되는 법</a>(11,399 hit)</li><li>가장 많이 읽힌 비번역 글: <a href="/2016/04/03/webpack-practical-guide/">webpack 실전 가이드</a>(7,077 hit)</li><li>Google 유입 방문자 수: 15,247명</li><li>Google 유입이 많이 된 글: webpack 실전 가이드(4,219명), <a href="/2016/02/08/copy-object-in-javascript/">JavaScript 객체 복사하기</a>(3,981명)</li><li>Facebook 유입 방문자 수: 15,134명<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></li><li>Facebook 유입이 많이 된 글: 탁월한 프론트엔드 엔지니어가 되는 법(4,686명), <a href="/2016/09/17/lambda-anonymous-function-closure/">람다, 익명 함수, 클로저</a>(4,231명)</li></ul><p><img src="/images/2016-ga-stat.png" alt="Google Anaytics 검색 유입 통계 2016"><br>위의 그래프는 GA에서 구글 검색으로만 유입되는 세션 수다. 수치는 많지 않지만 그래프가 예쁘게 나와서 가져와 본다. 꾸준히 하면 적어도 조금씩 트래픽이 증가한다.</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">세션 기준.</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">GA에 <code>(direct) / (none)</code>으로 잡히는 사용자 중 페이스북 비율이 꽤 있을 것으로 예상되지만 예측할 수 없으므로 제외하였다.</span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;img src=&quot;/images/a-look-back-on-blog-in-2016.jpg&quot;/&gt;&lt;p&gt;올 한 해 스스로 잘했다고 생각하는 것 중에 하나는 바로 블로그 운영이다. 사실 블로그는 작년에 시작했다. 작년 8월 쯤, 그러니까 첫 커리어의 시작 즈
-      
-    
-    </summary>
-    
-      <category term="Log" scheme="https://hyunseob.github.io/categories/Log/"/>
-    
-    
-      <category term="Blog" scheme="https://hyunseob.github.io/tags/Blog/"/>
     
   </entry>
   

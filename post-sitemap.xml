@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>https://hyunseob.github.io/2019/05/09/google-io-2019-day-1/</loc>
+        <lastmod>2019-05-08T20:36:35.365Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://hyunseob.github.io/2018/12/31/2018-year-in-review/</loc>
         <lastmod>2018-12-31T12:01:33.637Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -119,7 +127,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/10/02/typescript-basic-type/</loc>
+        <loc>https://hyunseob.github.io/2017/07/18/typescript-enums/</loc>
         <lastmod>2018-12-31T10:15:02.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -127,7 +135,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2017/07/18/typescript-enums/</loc>
+        <loc>https://hyunseob.github.io/2016/10/02/typescript-basic-type/</loc>
         <lastmod>2018-12-31T10:15:02.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
