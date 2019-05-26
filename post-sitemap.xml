@@ -7,8 +7,8 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2019/05/12/google-io-2019-day-2/</loc>
-        <lastmod>2019-05-13T01:38:40.268Z</lastmod>
+        <loc>https://hyunseob.github.io/2019/05/26/google-io-2019-day-3/</loc>
+        <lastmod>2019-05-26T09:03:10.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -16,7 +16,15 @@
 
     <url>
         <loc>https://hyunseob.github.io/2019/05/09/google-io-2019-day-1/</loc>
-        <lastmod>2019-05-12T14:51:58.155Z</lastmod>
+        <lastmod>2019-05-26T08:47:52.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/2019/05/12/google-io-2019-day-2/</loc>
+        <lastmod>2019-05-26T08:47:44.465Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -63,7 +71,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/07/23/underscore-extend/</loc>
+        <loc>https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/</loc>
         <lastmod>2018-12-31T10:15:02.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -71,7 +79,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/</loc>
+        <loc>https://hyunseob.github.io/2016/07/23/underscore-extend/</loc>
         <lastmod>2018-12-31T10:15:02.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -351,14 +359,6 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/12/05/book-functional-thinking/</loc>
-        <lastmod>2018-12-31T10:15:02.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://hyunseob.github.io/2017/02/26/blog-for-developers/</loc>
         <lastmod>2018-12-31T10:15:02.254Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -368,6 +368,14 @@
 
     <url>
         <loc>https://hyunseob.github.io/2015/08/01/bind-same-event/</loc>
+        <lastmod>2018-12-31T10:15:02.254Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/2016/12/05/book-functional-thinking/</loc>
         <lastmod>2018-12-31T10:15:02.254Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
