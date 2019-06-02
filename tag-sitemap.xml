@@ -170,13 +170,6 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/tags/React/</loc>
-        <lastmod>2018-12-31T10:15:02.274Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://hyunseob.github.io/tags/Storybook/</loc>
         <lastmod>2018-12-31T10:15:02.274Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -191,14 +184,14 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/tags/Opinion/</loc>
+        <loc>https://hyunseob.github.io/tags/DOM/</loc>
         <lastmod>2018-12-31T10:15:02.276Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/tags/DOM/</loc>
+        <loc>https://hyunseob.github.io/tags/Opinion/</loc>
         <lastmod>2018-12-31T10:15:02.276Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -347,6 +340,13 @@
     <url>
         <loc>https://hyunseob.github.io/tags/GDG/</loc>
         <lastmod>2019-05-26T09:03:10.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/tags/React/</loc>
+        <lastmod>2019-06-02T09:44:07.821Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

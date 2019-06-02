@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>https://hyunseob.github.io/2019/06/02/react-component-the-right-way/</loc>
+        <lastmod>2019-06-02T09:44:07.821Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://hyunseob.github.io/2019/05/26/google-io-2019-day-3/</loc>
         <lastmod>2019-05-26T09:03:10.661Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -71,7 +79,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/</loc>
+        <loc>https://hyunseob.github.io/2016/07/23/underscore-extend/</loc>
         <lastmod>2018-12-31T10:15:02.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -79,7 +87,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/07/23/underscore-extend/</loc>
+        <loc>https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/</loc>
         <lastmod>2018-12-31T10:15:02.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -207,7 +215,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2017/02/05/my-command-line-interface/</loc>
+        <loc>https://hyunseob.github.io/2016/10/15/my-first-changing-company/</loc>
         <lastmod>2018-12-31T10:15:02.271Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -215,7 +223,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/10/15/my-first-changing-company/</loc>
+        <loc>https://hyunseob.github.io/2017/02/05/my-command-line-interface/</loc>
         <lastmod>2018-12-31T10:15:02.271Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -239,7 +247,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/08/17/javascript-proxy/</loc>
+        <loc>https://hyunseob.github.io/2016/03/10/javascript-this/</loc>
         <lastmod>2018-12-31T10:15:02.269Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -247,7 +255,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/03/10/javascript-this/</loc>
+        <loc>https://hyunseob.github.io/2016/08/17/javascript-proxy/</loc>
         <lastmod>2018-12-31T10:15:02.269Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -359,7 +367,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2017/02/26/blog-for-developers/</loc>
+        <loc>https://hyunseob.github.io/2015/08/01/bind-same-event/</loc>
         <lastmod>2018-12-31T10:15:02.254Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -367,7 +375,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2015/08/01/bind-same-event/</loc>
+        <loc>https://hyunseob.github.io/2017/02/26/blog-for-developers/</loc>
         <lastmod>2018-12-31T10:15:02.254Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
