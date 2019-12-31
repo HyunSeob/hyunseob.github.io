@@ -126,13 +126,6 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/categories/Log/</loc>
-        <lastmod>2019-05-26T09:03:10.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://hyunseob.github.io/categories/JavaScript/</loc>
         <lastmod>2019-06-03T01:38:13.960Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -142,6 +135,13 @@
     <url>
         <loc>https://hyunseob.github.io/categories/JavaScript/React/</loc>
         <lastmod>2019-06-03T01:38:13.960Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/categories/Log/</loc>
+        <lastmod>2019-12-31T13:23:40.134Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
