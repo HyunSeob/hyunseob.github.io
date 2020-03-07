@@ -9,13 +9,6 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/tags/Functional/</loc>
-        <lastmod>2018-12-31T10:15:02.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://hyunseob.github.io/tags/AWS/</loc>
         <lastmod>2018-12-31T10:15:02.254Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -219,13 +212,6 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/tags/lodash/</loc>
-        <lastmod>2018-12-31T10:15:02.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://hyunseob.github.io/tags/Translate/</loc>
         <lastmod>2018-12-31T10:15:02.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -233,7 +219,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/tags/Agile/</loc>
+        <loc>https://hyunseob.github.io/tags/lodash/</loc>
         <lastmod>2018-12-31T10:15:02.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -347,6 +333,27 @@
     <url>
         <loc>https://hyunseob.github.io/tags/Year-in-review/</loc>
         <lastmod>2019-12-31T13:33:57.749Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/tags/Functional/</loc>
+        <lastmod>2020-03-07T07:10:19.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/tags/Book/</loc>
+        <lastmod>2020-03-07T07:10:27.101Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/tags/Agile/</loc>
+        <lastmod>2020-03-07T07:10:27.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

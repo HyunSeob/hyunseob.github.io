@@ -7,6 +7,30 @@
     </url>
 
     <url>
+        <loc>https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/</loc>
+        <lastmod>2020-03-07T07:10:27.101Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/2016/12/05/book-functional-thinking/</loc>
+        <lastmod>2020-03-07T07:10:19.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/</loc>
+        <lastmod>2020-03-07T07:09:50.412Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://hyunseob.github.io/2019/12/31/2019-year-in-review/</loc>
         <lastmod>2019-12-31T13:33:57.749Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,14 +111,6 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/</loc>
-        <lastmod>2018-12-31T10:15:02.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://hyunseob.github.io/2016/07/23/underscore-extend/</loc>
         <lastmod>2018-12-31T10:15:02.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,7 +167,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/10/17/typescript-class/</loc>
+        <loc>https://hyunseob.github.io/2017/07/18/typescript-enums/</loc>
         <lastmod>2018-12-31T10:15:02.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -159,7 +175,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2017/07/18/typescript-enums/</loc>
+        <loc>https://hyunseob.github.io/2016/10/17/typescript-class/</loc>
         <lastmod>2018-12-31T10:15:02.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -255,7 +271,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/08/17/javascript-proxy/</loc>
+        <loc>https://hyunseob.github.io/2016/03/10/javascript-this/</loc>
         <lastmod>2018-12-31T10:15:02.269Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -263,7 +279,7 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/2016/03/10/javascript-this/</loc>
+        <loc>https://hyunseob.github.io/2016/08/17/javascript-proxy/</loc>
         <lastmod>2018-12-31T10:15:02.269Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -384,14 +400,6 @@
 
     <url>
         <loc>https://hyunseob.github.io/2017/02/26/blog-for-developers/</loc>
-        <lastmod>2018-12-31T10:15:02.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://hyunseob.github.io/2016/12/05/book-functional-thinking/</loc>
         <lastmod>2018-12-31T10:15:02.254Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
